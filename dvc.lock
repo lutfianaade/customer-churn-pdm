@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  preprocess:
+    cmd: python src/preprocessing.py
+    deps:
+    - path: dataset/raw/Telco-Customer-Churn.csv
+      hash: md5
+      md5: 0f9de68e012bd3aed5fa7cdc9fc421af
+      size: 977501
+    - path: src/preprocessing.py
+      hash: md5
+      md5: 7357e06717df070ee426c630f1f7b40c
+      size: 784
+    outs:
+    - path: clean_data.csv
+      hash: md5
+      md5: a51f2e544b2fccb686b91329f1615fe0
+      size: 1807500

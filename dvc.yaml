@@ -1,0 +1,8 @@
+stages:
+  preprocess:
+    cmd: python src/preprocessing.py
+    deps:
+    - dataset/raw/Telco-Customer-Churn.csv
+    - src/preprocessing.py
+    outs:
+    - clean_data.csv
