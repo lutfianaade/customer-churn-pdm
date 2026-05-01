@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/7c45301fba554f158cb79df87d74f4c6/artifacts
+end_time: 1777641431583
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 7c45301fba554f158cb79df87d74f4c6
+run_name: defiant-colt-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641427179
+status: 3
+tags: []
+user_id: hp

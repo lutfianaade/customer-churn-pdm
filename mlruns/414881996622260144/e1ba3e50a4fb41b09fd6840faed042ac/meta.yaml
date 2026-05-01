@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e1ba3e50a4fb41b09fd6840faed042ac/artifacts
+end_time: 1777641466786
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e1ba3e50a4fb41b09fd6840faed042ac
+run_name: aged-bug-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641462535
+status: 3
+tags: []
+user_id: hp

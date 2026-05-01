@@ -1,0 +1,8 @@
+artifact_location: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144
+creation_time: 1777641301845
+experiment_id: '414881996622260144'
+last_update_time: 1777641301845
+lifecycle_stage: active
+name: Churn Experiment
+trace_location: null
+workspace: default

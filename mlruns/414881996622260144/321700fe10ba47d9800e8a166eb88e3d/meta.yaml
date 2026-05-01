@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/321700fe10ba47d9800e8a166eb88e3d/artifacts
+end_time: 1777641427164
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 321700fe10ba47d9800e8a166eb88e3d
+run_name: monumental-asp-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641422824
+status: 3
+tags: []
+user_id: hp

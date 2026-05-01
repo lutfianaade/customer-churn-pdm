@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/bd57bd70901645e9b63c5fac2f0c04d4/artifacts
+end_time: 1777641449463
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: bd57bd70901645e9b63c5fac2f0c04d4
+run_name: powerful-grub-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641445190
+status: 3
+tags: []
+user_id: hp

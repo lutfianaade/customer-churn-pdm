@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/860fc55b66604be0bbdcfa239f3ae610/artifacts
+end_time: 1777641357181
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 860fc55b66604be0bbdcfa239f3ae610
+run_name: lyrical-calf-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641352950
+status: 3
+tags: []
+user_id: hp

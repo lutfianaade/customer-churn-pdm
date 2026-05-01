@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/aa2637b2efe5475e9232374d02cd2a6c/artifacts
+end_time: 1777641400622
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: aa2637b2efe5475e9232374d02cd2a6c
+run_name: invincible-sow-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641396146
+status: 3
+tags: []
+user_id: hp

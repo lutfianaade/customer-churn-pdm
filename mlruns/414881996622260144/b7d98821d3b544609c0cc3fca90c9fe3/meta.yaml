@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b7d98821d3b544609c0cc3fca90c9fe3/artifacts
+end_time: 1777641453952
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b7d98821d3b544609c0cc3fca90c9fe3
+run_name: languid-frog-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641449478
+status: 3
+tags: []
+user_id: hp

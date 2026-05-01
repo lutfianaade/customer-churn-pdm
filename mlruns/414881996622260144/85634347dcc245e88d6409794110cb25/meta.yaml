@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/85634347dcc245e88d6409794110cb25/artifacts
+end_time: 1777641436103
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 85634347dcc245e88d6409794110cb25
+run_name: luminous-boar-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641431600
+status: 3
+tags: []
+user_id: hp

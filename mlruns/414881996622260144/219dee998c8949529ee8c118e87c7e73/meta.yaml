@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/219dee998c8949529ee8c118e87c7e73/artifacts
+end_time: 1777641396136
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 219dee998c8949529ee8c118e87c7e73
+run_name: victorious-doe-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641391835
+status: 3
+tags: []
+user_id: hp

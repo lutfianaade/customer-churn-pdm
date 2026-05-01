@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/c16499c302484d03abcec2b2fd243197/artifacts
+end_time: 1777641361430
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: c16499c302484d03abcec2b2fd243197
+run_name: rogue-shad-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641357191
+status: 3
+tags: []
+user_id: hp

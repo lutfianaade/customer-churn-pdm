@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/be2118fc70aa4d6aacb28207bd8c0051/artifacts
+end_time: 1777641339804
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: be2118fc70aa4d6aacb28207bd8c0051
+run_name: calm-finch-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641335492
+status: 3
+tags: []
+user_id: hp

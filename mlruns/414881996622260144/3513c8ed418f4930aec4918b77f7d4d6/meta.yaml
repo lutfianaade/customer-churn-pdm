@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/3513c8ed418f4930aec4918b77f7d4d6/artifacts
+end_time: 1777641440607
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 3513c8ed418f4930aec4918b77f7d4d6
+run_name: luminous-koi-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641436120
+status: 3
+tags: []
+user_id: hp

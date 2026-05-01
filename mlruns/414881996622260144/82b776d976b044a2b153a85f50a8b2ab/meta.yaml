@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/82b776d976b044a2b153a85f50a8b2ab/artifacts
+end_time: 1777641409482
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 82b776d976b044a2b153a85f50a8b2ab
+run_name: welcoming-goat-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641405097
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d063e697c9df43e28cce29f0e5d5297a/artifacts
+end_time: 1777641391825
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d063e697c9df43e28cce29f0e5d5297a
+run_name: bright-tern-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641387488
+status: 3
+tags: []
+user_id: hp

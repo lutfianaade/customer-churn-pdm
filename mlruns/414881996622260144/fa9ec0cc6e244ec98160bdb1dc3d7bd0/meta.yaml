@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/fa9ec0cc6e244ec98160bdb1dc3d7bd0/artifacts
+end_time: 1777641471068
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: fa9ec0cc6e244ec98160bdb1dc3d7bd0
+run_name: painted-ray-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641466795
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/8b52639c08504cc58b227b562609e3b4/artifacts
+end_time: 1777641489023
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 8b52639c08504cc58b227b562609e3b4
+run_name: gaudy-elk-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641484788
+status: 3
+tags: []
+user_id: hp

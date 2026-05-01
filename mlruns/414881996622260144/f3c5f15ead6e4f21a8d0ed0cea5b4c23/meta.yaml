@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/f3c5f15ead6e4f21a8d0ed0cea5b4c23/artifacts
+end_time: 1777641462514
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: f3c5f15ead6e4f21a8d0ed0cea5b4c23
+run_name: capable-cod-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777641458307
+status: 3
+tags: []
+user_id: hp
