@@ -132,7 +132,21 @@ print(pd.Series(y_train).value_counts())
 
 import mlflow
 import mlflow.sklearn
+import dagshub 
+import os
+from dotenv import load_dotenv
 
+#load env
+load_dotenv()
+
+#koneksi ke dasghub
+dagshub.inint(
+    repo_owner='lutfianaade',
+    repo_name='customer_churn_prediction',
+    mlflow=True
+)
+
+#tracking experiment
 mlflow.set_tracking_uri("file:./mlruns")   # ⬅️ TAMBAHKAN DI SINI
 
 mlflow.set_experiment("Churn Experiment")
