@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/ae4f0119a4a54bd3a8f3b286d1b94cc9/artifacts
+end_time: 1779691206484
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: ae4f0119a4a54bd3a8f3b286d1b94cc9
+run_name: youthful-snail-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691201601
+status: 3
+tags: []
+user_id: hp

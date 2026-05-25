@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e68c4ad98041458eb055d5e0da8196fe/artifacts
+end_time: 1779691234199
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e68c4ad98041458eb055d5e0da8196fe
+run_name: serious-penguin-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691229110
+status: 3
+tags: []
+user_id: hp

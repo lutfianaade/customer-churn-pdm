@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/ab22118397114d34902117af8eb7df62/artifacts
+end_time: 1779690323270
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: ab22118397114d34902117af8eb7df62
+run_name: debonair-flea-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690318822
+status: 3
+tags: []
+user_id: hp

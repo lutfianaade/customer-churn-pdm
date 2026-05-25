@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/12f3b1c8b283446baaaf4834b5ff2506/artifacts
+end_time: 1777988053474
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 12f3b1c8b283446baaaf4834b5ff2506
+run_name: stylish-perch-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777988043505
+status: 3
+tags: []
+user_id: hp

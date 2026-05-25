@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/190a3523417c449b8d6bba94c9a605da/artifacts
+end_time: 1779691067207
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 190a3523417c449b8d6bba94c9a605da
+run_name: bustling-owl-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691062833
+status: 3
+tags: []
+user_id: hp

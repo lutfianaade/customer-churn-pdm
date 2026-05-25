@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/edc9b97720994b74b2af90dce1a3fe75/artifacts
+end_time: 1777988244243
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: edc9b97720994b74b2af90dce1a3fe75
+run_name: worried-calf-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777988235368
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e39e4bca6db44168abd85e51710a6904/artifacts
+end_time: 1779691132489
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e39e4bca6db44168abd85e51710a6904
+run_name: sincere-owl-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691127817
+status: 3
+tags: []
+user_id: hp

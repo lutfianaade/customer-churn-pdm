@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/45925d9027794c2d85f4def383c38537/artifacts
+end_time: 1779692231902
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 45925d9027794c2d85f4def383c38537
+run_name: resilient-moth-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692227110
+status: 3
+tags: []
+user_id: hp

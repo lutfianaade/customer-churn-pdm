@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/de4fdfddf3ff4c61ad24eb4b34738b21/artifacts
+end_time: 1779691450001
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: de4fdfddf3ff4c61ad24eb4b34738b21
+run_name: caring-sheep-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691445419
+status: 3
+tags: []
+user_id: hp

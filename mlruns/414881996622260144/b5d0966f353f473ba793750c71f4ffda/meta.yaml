@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b5d0966f353f473ba793750c71f4ffda/artifacts
+end_time: 1779692061623
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b5d0966f353f473ba793750c71f4ffda
+run_name: flawless-deer-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692056699
+status: 3
+tags: []
+user_id: hp

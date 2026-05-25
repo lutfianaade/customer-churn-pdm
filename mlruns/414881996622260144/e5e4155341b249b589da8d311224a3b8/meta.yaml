@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e5e4155341b249b589da8d311224a3b8/artifacts
+end_time: 1779690114432
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e5e4155341b249b589da8d311224a3b8
+run_name: chill-goat-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690109710
+status: 3
+tags: []
+user_id: hp

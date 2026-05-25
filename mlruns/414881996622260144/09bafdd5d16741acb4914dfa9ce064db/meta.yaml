@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/09bafdd5d16741acb4914dfa9ce064db/artifacts
+end_time: 1779692335287
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 09bafdd5d16741acb4914dfa9ce064db
+run_name: bemused-ape-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692330735
+status: 3
+tags: []
+user_id: hp

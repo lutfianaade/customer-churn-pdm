@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/df37583236a64667b179d094479f6b55/artifacts
+end_time: 1779691338219
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: df37583236a64667b179d094479f6b55
+run_name: righteous-lark-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691333109
+status: 3
+tags: []
+user_id: hp

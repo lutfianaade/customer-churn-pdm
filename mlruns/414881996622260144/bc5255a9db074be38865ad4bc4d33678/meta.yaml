@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/bc5255a9db074be38865ad4bc4d33678/artifacts
+end_time: 1779690628119
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: bc5255a9db074be38865ad4bc4d33678
+run_name: amusing-bug-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690623705
+status: 3
+tags: []
+user_id: hp

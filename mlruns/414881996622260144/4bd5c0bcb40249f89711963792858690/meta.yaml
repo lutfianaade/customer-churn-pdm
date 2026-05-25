@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/4bd5c0bcb40249f89711963792858690/artifacts
+end_time: 1779692168396
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 4bd5c0bcb40249f89711963792858690
+run_name: indecisive-colt-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692163839
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/df0910f8ea234d868effb476e7a06f1a/artifacts
+end_time: 1779692676169
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: df0910f8ea234d868effb476e7a06f1a
+run_name: polite-sow-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692671861
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/1d338a94576641b58e7db2365d3ba517/artifacts
+end_time: 1779690711289
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 1d338a94576641b58e7db2365d3ba517
+run_name: exultant-whale-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690706908
+status: 3
+tags: []
+user_id: hp

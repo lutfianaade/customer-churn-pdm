@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/698aec4d841042169dffb1411ac3ecab/artifacts
+end_time: 1779691549906
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 698aec4d841042169dffb1411ac3ecab
+run_name: popular-sow-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691545350
+status: 3
+tags: []
+user_id: hp

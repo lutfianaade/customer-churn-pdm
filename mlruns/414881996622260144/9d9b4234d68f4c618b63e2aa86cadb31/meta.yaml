@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/9d9b4234d68f4c618b63e2aa86cadb31/artifacts
+end_time: 1779691601024
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 9d9b4234d68f4c618b63e2aa86cadb31
+run_name: nimble-cat-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691596546
+status: 3
+tags: []
+user_id: hp

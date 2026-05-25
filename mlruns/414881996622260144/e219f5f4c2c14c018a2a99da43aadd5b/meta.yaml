@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e219f5f4c2c14c018a2a99da43aadd5b/artifacts
+end_time: 1779691638409
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e219f5f4c2c14c018a2a99da43aadd5b
+run_name: burly-shrike-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691633776
+status: 3
+tags: []
+user_id: hp

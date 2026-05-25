@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/52905b387d814402b26c336c5ec792d6/artifacts
+end_time: 1779692141640
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 52905b387d814402b26c336c5ec792d6
+run_name: mercurial-zebra-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692136847
+status: 3
+tags: []
+user_id: hp

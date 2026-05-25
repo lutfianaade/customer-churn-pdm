@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/6c53c6de081e4d7d9b8186fbb569df09/artifacts
+end_time: 1779691760954
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 6c53c6de081e4d7d9b8186fbb569df09
+run_name: silent-hare-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691756496
+status: 3
+tags: []
+user_id: hp

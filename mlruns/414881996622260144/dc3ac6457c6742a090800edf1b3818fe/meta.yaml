@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/dc3ac6457c6742a090800edf1b3818fe/artifacts
+end_time: 1779692510548
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: dc3ac6457c6742a090800edf1b3818fe
+run_name: brawny-mule-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692506096
+status: 3
+tags: []
+user_id: hp

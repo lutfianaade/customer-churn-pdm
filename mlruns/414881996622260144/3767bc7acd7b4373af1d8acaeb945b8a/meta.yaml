@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/3767bc7acd7b4373af1d8acaeb945b8a/artifacts
+end_time: 1779691362630
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 3767bc7acd7b4373af1d8acaeb945b8a
+run_name: salty-toad-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691358028
+status: 3
+tags: []
+user_id: hp

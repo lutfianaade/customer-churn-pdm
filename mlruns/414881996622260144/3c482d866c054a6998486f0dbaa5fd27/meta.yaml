@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/3c482d866c054a6998486f0dbaa5fd27/artifacts
+end_time: 1779690305443
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 3c482d866c054a6998486f0dbaa5fd27
+run_name: polite-dolphin-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690301178
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/7ae244330aed4fc88041b3fc2f9eb5be/artifacts
+end_time: 1779692213143
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 7ae244330aed4fc88041b3fc2f9eb5be
+run_name: luxuriant-frog-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692208812
+status: 3
+tags: []
+user_id: hp

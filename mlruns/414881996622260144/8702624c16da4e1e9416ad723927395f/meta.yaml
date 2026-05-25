@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/8702624c16da4e1e9416ad723927395f/artifacts
+end_time: 1777988363590
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 8702624c16da4e1e9416ad723927395f
+run_name: blushing-stork-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777988346653
+status: 3
+tags: []
+user_id: hp

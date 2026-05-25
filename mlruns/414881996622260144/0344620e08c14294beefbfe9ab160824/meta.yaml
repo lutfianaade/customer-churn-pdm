@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0344620e08c14294beefbfe9ab160824/artifacts
+end_time: 1779691661030
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0344620e08c14294beefbfe9ab160824
+run_name: silent-crab-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691656361
+status: 3
+tags: []
+user_id: hp

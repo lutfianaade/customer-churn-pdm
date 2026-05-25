@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/f4229d7d1e1e4aeb94d357f6c9fe4343/artifacts
+end_time: 1779691679442
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: f4229d7d1e1e4aeb94d357f6c9fe4343
+run_name: mercurial-pig-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691674866
+status: 3
+tags: []
+user_id: hp

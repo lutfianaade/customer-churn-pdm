@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e9090e059d1d425880b9f3a1989cf7b8/artifacts
+end_time: 1779692344648
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e9090e059d1d425880b9f3a1989cf7b8
+run_name: legendary-hound-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692339799
+status: 3
+tags: []
+user_id: hp

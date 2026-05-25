@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/71f7e7fe8bdd4090ad91c8e2574abcf9/artifacts
+end_time: 1779692616991
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 71f7e7fe8bdd4090ad91c8e2574abcf9
+run_name: stately-cub-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692612427
+status: 3
+tags: []
+user_id: hp

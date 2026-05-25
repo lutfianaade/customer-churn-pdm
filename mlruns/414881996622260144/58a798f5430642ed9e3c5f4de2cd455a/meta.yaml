@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/58a798f5430642ed9e3c5f4de2cd455a/artifacts
+end_time: 1779692372954
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 58a798f5430642ed9e3c5f4de2cd455a
+run_name: upbeat-swan-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692368435
+status: 3
+tags: []
+user_id: hp

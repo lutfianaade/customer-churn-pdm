@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/4ef92aea6325415f87d44902c6fc29f2/artifacts
+end_time: 1779691454365
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 4ef92aea6325415f87d44902c6fc29f2
+run_name: gentle-cat-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691450020
+status: 3
+tags: []
+user_id: hp

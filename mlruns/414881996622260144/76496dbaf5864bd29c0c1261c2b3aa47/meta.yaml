@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/76496dbaf5864bd29c0c1261c2b3aa47/artifacts
+end_time: 1779690870372
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 76496dbaf5864bd29c0c1261c2b3aa47
+run_name: rumbling-ant-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690865497
+status: 3
+tags: []
+user_id: hp

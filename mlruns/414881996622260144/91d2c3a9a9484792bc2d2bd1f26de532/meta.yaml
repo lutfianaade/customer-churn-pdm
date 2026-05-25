@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/91d2c3a9a9484792bc2d2bd1f26de532/artifacts
+end_time: 1779692047049
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 91d2c3a9a9484792bc2d2bd1f26de532
+run_name: silent-calf-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692042401
+status: 3
+tags: []
+user_id: hp

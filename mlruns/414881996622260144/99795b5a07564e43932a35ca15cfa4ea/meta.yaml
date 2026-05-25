@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/99795b5a07564e43932a35ca15cfa4ea/artifacts
+end_time: 1779691183330
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 99795b5a07564e43932a35ca15cfa4ea
+run_name: marvelous-wren-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691178895
+status: 3
+tags: []
+user_id: hp

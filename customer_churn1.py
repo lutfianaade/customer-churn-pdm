@@ -112,7 +112,7 @@ y = df['Churn_Yes']
 y = y.astype(int)
 
 X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42)
+    X, y, test_size=0.2, stratify=y, random_state=42)
 
 #dta ini diabgi dulu jadi data training dan testing buat menghindari data leakage. teknik SMOTE
 #diterapkan agar model tidak bias thd data uji.
@@ -146,47 +146,63 @@ model.fit(X_train, y_train)
 
 results = []
 
-for depth in [3, 5, 7, 10, 15]:
+for depth in [3, 5, 7, 10, 15, 20]:
     for split in [2, 5, 10, 20]:
-        for crit in ['gini', 'entropy']:
-            
-            with mlflow.start_run():
-                
-                model = DecisionTreeClassifier(
-                    max_depth=depth,
-                    min_samples_split=split,
-                    criterion=crit,
-                    class_weight='balanced',
-                    random_state=42
-                )
-                
-                model.fit(X_train, y_train)
-                y_pred = model.predict(X_test)
-                
-                acc = accuracy_score(y_test, y_pred)
-                report = classification_report(y_test, y_pred, output_dict=True)
-                
-                precision = report['1']['precision']
-                recall = report['1']['recall']
-                f1 = report['1']['f1-score']
-                
-                # LOG KE MLFLOW
-                mlflow.log_param("max_depth", depth)
-                mlflow.log_param("min_samples_split", split)
-                mlflow.log_param("criterion", crit)
-                
-                mlflow.log_metric("accuracy", acc)
-                mlflow.log_metric("precision_churn", precision)
-                mlflow.log_metric("recall_churn", recall)
-                mlflow.log_metric("f1_churn", f1)
-                
-                results.append({
-                    'max_depth': depth,
-                    'min_samples_split': split,
-                    'criterion': crit,
-                    'accuracy': acc,
-                    'recall_churn': recall
-                })
+        for leaf in [1, 2, 4, 6]:
+            for crit in ['gini', 'entropy']:
+                for feature in ['sqrt', 'log2', None]:
+
+                    with mlflow.start_run():
+
+                        model = DecisionTreeClassifier(
+                            max_depth=depth,
+                            min_samples_split=split,
+                            min_samples_leaf=leaf,
+                            max_features=feature,
+                            criterion=crit,
+                            class_weight='balanced',
+                            random_state=42
+                        )
+
+                        model.fit(X_train, y_train)
+
+                        y_pred = model.predict(X_test)
+
+                        acc = accuracy_score(y_test, y_pred)
+
+                        report = classification_report(
+                            y_test,
+                            y_pred,
+                            output_dict=True
+                        )
+
+                        precision = report['1']['precision']
+                        recall = report['1']['recall']
+                        f1 = report['1']['f1-score']
+
+                        # LOG PARAMETER
+                        mlflow.log_param("max_depth", depth)
+                        mlflow.log_param("min_samples_split", split)
+                        mlflow.log_param("min_samples_leaf", leaf)
+                        mlflow.log_param("criterion", crit)
+                        mlflow.log_param("max_features", feature)
+
+                        # LOG METRIC
+                        mlflow.log_metric("accuracy", acc)
+                        mlflow.log_metric("precision_churn", precision)
+                        mlflow.log_metric("recall_churn", recall)
+                        mlflow.log_metric("f1_churn", f1)
+
+                        results.append({
+                            'max_depth': depth,
+                            'min_samples_split': split,
+                            'min_samples_leaf': leaf,
+                            'criterion': crit,
+                            'max_features': feature,
+                            'accuracy': acc,
+                            'recall_churn': recall,
+                            'f1_churn': f1
+                        })
 
 df_results = pd.DataFrame(results)
 

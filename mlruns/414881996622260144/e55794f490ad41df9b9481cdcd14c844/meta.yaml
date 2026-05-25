@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e55794f490ad41df9b9481cdcd14c844/artifacts
+end_time: 1779690058868
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e55794f490ad41df9b9481cdcd14c844
+run_name: puzzled-fox-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690054391
+status: 3
+tags: []
+user_id: hp

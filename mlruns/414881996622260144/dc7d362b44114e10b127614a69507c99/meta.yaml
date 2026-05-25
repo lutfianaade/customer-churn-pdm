@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/dc7d362b44114e10b127614a69507c99/artifacts
+end_time: 1779691318965
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: dc7d362b44114e10b127614a69507c99
+run_name: crawling-yak-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691314278
+status: 3
+tags: []
+user_id: hp

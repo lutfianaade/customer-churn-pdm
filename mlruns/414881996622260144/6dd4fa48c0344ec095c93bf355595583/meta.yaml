@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/6dd4fa48c0344ec095c93bf355595583/artifacts
+end_time: 1779691123038
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 6dd4fa48c0344ec095c93bf355595583
+run_name: angry-hound-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691118362
+status: 3
+tags: []
+user_id: hp

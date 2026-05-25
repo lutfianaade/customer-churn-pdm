@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/ec07b34cb364484f9f43d1f1d07ffbaa/artifacts
+end_time: 1779690100515
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: ec07b34cb364484f9f43d1f1d07ffbaa
+run_name: clean-bass-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690095985
+status: 3
+tags: []
+user_id: hp

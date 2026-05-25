@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/9884e821deef484da72274973e38455d/artifacts
+end_time: 1779690632895
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 9884e821deef484da72274973e38455d
+run_name: receptive-kite-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690628129
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/499b00c3c0f24d5688c0e9cc10feda3b/artifacts
+end_time: 1779691888920
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 499b00c3c0f24d5688c0e9cc10feda3b
+run_name: melodic-cub-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691884513
+status: 3
+tags: []
+user_id: hp

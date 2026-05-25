@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/330a3831dec44be4a79a0bdf5e48d71d/artifacts
+end_time: 1779692217663
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 330a3831dec44be4a79a0bdf5e48d71d
+run_name: glamorous-kit-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692213153
+status: 3
+tags: []
+user_id: hp

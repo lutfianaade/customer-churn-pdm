@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b017e75af8e846e9bb91b8b56ff40627/artifacts
+end_time: 1779690808052
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b017e75af8e846e9bb91b8b56ff40627
+run_name: judicious-shrike-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690803232
+status: 3
+tags: []
+user_id: hp

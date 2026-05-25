@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e4214401b5da4e0e9450fe2681fa1a95/artifacts
+end_time: 1779691299896
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e4214401b5da4e0e9450fe2681fa1a95
+run_name: wistful-robin-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691295112
+status: 3
+tags: []
+user_id: hp

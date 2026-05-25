@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/689c2508ac804181a538fd5b5ae29706/artifacts
+end_time: 1779692483045
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 689c2508ac804181a538fd5b5ae29706
+run_name: fortunate-bee-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692478457
+status: 3
+tags: []
+user_id: hp

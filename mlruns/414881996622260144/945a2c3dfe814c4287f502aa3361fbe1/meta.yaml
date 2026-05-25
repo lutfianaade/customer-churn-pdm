@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/945a2c3dfe814c4287f502aa3361fbe1/artifacts
+end_time: 1779690586661
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 945a2c3dfe814c4287f502aa3361fbe1
+run_name: intrigued-mink-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690582300
+status: 3
+tags: []
+user_id: hp

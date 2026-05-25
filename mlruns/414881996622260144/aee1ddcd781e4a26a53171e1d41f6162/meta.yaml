@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/aee1ddcd781e4a26a53171e1d41f6162/artifacts
+end_time: 1779691825375
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: aee1ddcd781e4a26a53171e1d41f6162
+run_name: bedecked-jay-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691819793
+status: 3
+tags: []
+user_id: hp

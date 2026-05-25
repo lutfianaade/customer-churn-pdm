@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/6a7c8d6f25364a9b8b5d8d53d9b5b205/artifacts
+end_time: 1779690095975
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 6a7c8d6f25364a9b8b5d8d53d9b5b205
+run_name: thoughtful-rook-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690091487
+status: 3
+tags: []
+user_id: hp

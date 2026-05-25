@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/9c9bf65dbd4941d999fde0430b768ff8/artifacts
+end_time: 1779691920350
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 9c9bf65dbd4941d999fde0430b768ff8
+run_name: amusing-conch-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691915778
+status: 3
+tags: []
+user_id: hp

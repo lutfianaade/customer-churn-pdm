@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b7e145f230c349508428ffcf6d684695/artifacts
+end_time: 1779691830621
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b7e145f230c349508428ffcf6d684695
+run_name: traveling-doe-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691825410
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/271bf60b5af1425cbe181cf571f0fa5c/artifacts
+end_time: 1779691113691
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 271bf60b5af1425cbe181cf571f0fa5c
+run_name: angry-grub-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691108921
+status: 3
+tags: []
+user_id: hp

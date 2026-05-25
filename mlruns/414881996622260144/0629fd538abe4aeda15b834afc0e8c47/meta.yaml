@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0629fd538abe4aeda15b834afc0e8c47/artifacts
+end_time: 1779691108896
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0629fd538abe4aeda15b834afc0e8c47
+run_name: capricious-flea-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691104306
+status: 3
+tags: []
+user_id: hp

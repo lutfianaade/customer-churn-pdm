@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/ef727c08bbf344829d146dd5c87daa78/artifacts
+end_time: 1779692236699
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: ef727c08bbf344829d146dd5c87daa78
+run_name: upbeat-sloth-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692231930
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d39a9101605548f1a3776611590a9b86/artifacts
+end_time: 1779691286021
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d39a9101605548f1a3776611590a9b86
+run_name: amazing-hound-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691281193
+status: 3
+tags: []
+user_id: hp

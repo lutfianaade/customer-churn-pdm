@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0f3f58a251334de0a6da6ed4d9b764dd/artifacts
+end_time: 1779690885592
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0f3f58a251334de0a6da6ed4d9b764dd
+run_name: capable-horse-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690880237
+status: 3
+tags: []
+user_id: hp

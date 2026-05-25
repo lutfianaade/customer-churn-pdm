@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/7d00842cc7b9449d8b2e8ef034f4e01c/artifacts
+end_time: 1779691769958
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 7d00842cc7b9449d8b2e8ef034f4e01c
+run_name: bouncy-dove-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691765365
+status: 3
+tags: []
+user_id: hp

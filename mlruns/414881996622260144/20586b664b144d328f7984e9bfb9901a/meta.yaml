@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/20586b664b144d328f7984e9bfb9901a/artifacts
+end_time: 1779690393497
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 20586b664b144d328f7984e9bfb9901a
+run_name: unleashed-shrew-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690387403
+status: 3
+tags: []
+user_id: hp

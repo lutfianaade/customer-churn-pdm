@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/fd8ed0839b0247a2ad2d9f27c9b8e48d/artifacts
+end_time: 1779692190877
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: fd8ed0839b0247a2ad2d9f27c9b8e48d
+run_name: persistent-wolf-285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692186104
+status: 3
+tags: []
+user_id: hp

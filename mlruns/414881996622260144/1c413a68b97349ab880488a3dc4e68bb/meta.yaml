@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/1c413a68b97349ab880488a3dc4e68bb/artifacts
+end_time: 1779692547417
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 1c413a68b97349ab880488a3dc4e68bb
+run_name: incongruous-calf-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692542746
+status: 3
+tags: []
+user_id: hp

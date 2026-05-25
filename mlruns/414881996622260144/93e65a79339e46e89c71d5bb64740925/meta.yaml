@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/93e65a79339e46e89c71d5bb64740925/artifacts
+end_time: 1779691404956
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 93e65a79339e46e89c71d5bb64740925
+run_name: glamorous-conch-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691400346
+status: 3
+tags: []
+user_id: hp

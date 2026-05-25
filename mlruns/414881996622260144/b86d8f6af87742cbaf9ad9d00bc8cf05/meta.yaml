@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b86d8f6af87742cbaf9ad9d00bc8cf05/artifacts
+end_time: 1779692626132
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b86d8f6af87742cbaf9ad9d00bc8cf05
+run_name: exultant-grub-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692621468
+status: 3
+tags: []
+user_id: hp

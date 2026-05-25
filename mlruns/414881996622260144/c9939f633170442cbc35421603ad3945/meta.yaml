@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/c9939f633170442cbc35421603ad3945/artifacts
+end_time: 1779691942548
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: c9939f633170442cbc35421603ad3945
+run_name: secretive-koi-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691938146
+status: 3
+tags: []
+user_id: hp

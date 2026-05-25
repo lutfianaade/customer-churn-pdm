@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/847831a67a134a7da754133515220210/artifacts
+end_time: 1779691238659
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 847831a67a134a7da754133515220210
+run_name: likeable-shoat-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691234217
+status: 3
+tags: []
+user_id: hp

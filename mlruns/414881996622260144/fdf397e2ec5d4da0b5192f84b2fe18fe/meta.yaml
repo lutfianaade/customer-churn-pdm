@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/fdf397e2ec5d4da0b5192f84b2fe18fe/artifacts
+end_time: 1779690227083
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: fdf397e2ec5d4da0b5192f84b2fe18fe
+run_name: suave-snipe-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690222568
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/fa04c471d2da42e6b0e414d6141ad4dd/artifacts
+end_time: 1779692579702
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: fa04c471d2da42e6b0e414d6141ad4dd
+run_name: dapper-mule-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692575203
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/1985083ad94b45b2b4149e81a6a45af1/artifacts
+end_time: 1779692699526
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 1985083ad94b45b2b4149e81a6a45af1
+run_name: popular-tern-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692694986
+status: 3
+tags: []
+user_id: hp

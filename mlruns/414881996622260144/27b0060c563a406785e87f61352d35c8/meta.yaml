@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/27b0060c563a406785e87f61352d35c8/artifacts
+end_time: 1779690890811
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 27b0060c563a406785e87f61352d35c8
+run_name: righteous-bass-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690885643
+status: 3
+tags: []
+user_id: hp

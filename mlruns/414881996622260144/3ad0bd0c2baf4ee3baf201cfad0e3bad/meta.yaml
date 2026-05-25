@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/3ad0bd0c2baf4ee3baf201cfad0e3bad/artifacts
+end_time: 1779692492120
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 3ad0bd0c2baf4ee3baf201cfad0e3bad
+run_name: luminous-shoat-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692487694
+status: 3
+tags: []
+user_id: hp

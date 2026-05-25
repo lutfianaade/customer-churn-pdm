@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d73fa11ba9a5424cb45acef53c0e2433/artifacts
+end_time: 1779690516126
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d73fa11ba9a5424cb45acef53c0e2433
+run_name: legendary-cow-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690511323
+status: 3
+tags: []
+user_id: hp

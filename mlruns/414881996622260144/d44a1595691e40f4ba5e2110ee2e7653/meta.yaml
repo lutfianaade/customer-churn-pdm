@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d44a1595691e40f4ba5e2110ee2e7653/artifacts
+end_time: 1779691187718
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d44a1595691e40f4ba5e2110ee2e7653
+run_name: dazzling-stag-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691183340
+status: 3
+tags: []
+user_id: hp

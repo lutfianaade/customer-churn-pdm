@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/358e0d32c5cc4a84bb06230f93cfe794/artifacts
+end_time: 1779690277998
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 358e0d32c5cc4a84bb06230f93cfe794
+run_name: vaunted-wasp-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690273407
+status: 3
+tags: []
+user_id: hp

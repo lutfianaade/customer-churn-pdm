@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/3009d931ac584ab793715c2a04ebcff6/artifacts
+end_time: 1779691381562
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 3009d931ac584ab793715c2a04ebcff6
+run_name: bright-finch-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691376886
+status: 3
+tags: []
+user_id: hp

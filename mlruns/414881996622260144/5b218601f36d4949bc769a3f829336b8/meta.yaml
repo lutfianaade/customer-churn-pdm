@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5b218601f36d4949bc769a3f829336b8/artifacts
+end_time: 1779690222558
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5b218601f36d4949bc769a3f829336b8
+run_name: bright-mole-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690218157
+status: 3
+tags: []
+user_id: hp

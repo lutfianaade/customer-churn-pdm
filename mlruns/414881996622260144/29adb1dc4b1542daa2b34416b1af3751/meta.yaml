@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/29adb1dc4b1542daa2b34416b1af3751/artifacts
+end_time: 1779691262416
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 29adb1dc4b1542daa2b34416b1af3751
+run_name: bouncy-toad-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691257698
+status: 3
+tags: []
+user_id: hp

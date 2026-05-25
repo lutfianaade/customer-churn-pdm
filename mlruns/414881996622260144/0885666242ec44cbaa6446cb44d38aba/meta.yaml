@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0885666242ec44cbaa6446cb44d38aba/artifacts
+end_time: 1779692460245
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0885666242ec44cbaa6446cb44d38aba
+run_name: upbeat-carp-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692455471
+status: 3
+tags: []
+user_id: hp

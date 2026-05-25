@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b03d3f698d7a46a884125d5358cf8760/artifacts
+end_time: 1779691022911
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b03d3f698d7a46a884125d5358cf8760
+run_name: tasteful-fowl-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691018439
+status: 3
+tags: []
+user_id: hp

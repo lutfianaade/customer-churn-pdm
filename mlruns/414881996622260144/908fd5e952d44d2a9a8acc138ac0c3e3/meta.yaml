@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/908fd5e952d44d2a9a8acc138ac0c3e3/artifacts
+end_time: 1779691386355
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 908fd5e952d44d2a9a8acc138ac0c3e3
+run_name: youthful-wren-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691381578
+status: 3
+tags: []
+user_id: hp

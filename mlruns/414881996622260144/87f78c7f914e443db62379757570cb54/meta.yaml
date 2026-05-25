@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/87f78c7f914e443db62379757570cb54/artifacts
+end_time: 1779690141592
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 87f78c7f914e443db62379757570cb54
+run_name: inquisitive-fly-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690137265
+status: 3
+tags: []
+user_id: hp

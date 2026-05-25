@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/c8ddc32c87a34c11a4d2c2fb9cf4df63/artifacts
+end_time: 1779691984360
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: c8ddc32c87a34c11a4d2c2fb9cf4df63
+run_name: nervous-frog-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691979702
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0ff7a5841340443d96db70397aa98bb9/artifacts
+end_time: 1779691840512
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0ff7a5841340443d96db70397aa98bb9
+run_name: bustling-worm-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691835771
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/3dbb84b82dbb4da693f64655a986d0ea/artifacts
+end_time: 1779691974895
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 3dbb84b82dbb4da693f64655a986d0ea
+run_name: able-hound-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691970214
+status: 3
+tags: []
+user_id: hp

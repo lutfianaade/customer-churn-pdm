@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0671139f13d54ba88c2fddec892f9401/artifacts
+end_time: 1779692382323
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0671139f13d54ba88c2fddec892f9401
+run_name: delightful-vole-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692377921
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/7794e101af4e4d0d84c2bbd3731932f6/artifacts
+end_time: 1779690613980
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 7794e101af4e4d0d84c2bbd3731932f6
+run_name: redolent-crow-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690609123
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/c746c4733e5f48c98d9113725fd1fa84/artifacts
+end_time: 1779690688825
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: c746c4733e5f48c98d9113725fd1fa84
+run_name: zealous-finch-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690684089
+status: 3
+tags: []
+user_id: hp

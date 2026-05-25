@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/f8f43ff0efb843589b831f3c7e2b4926/artifacts
+end_time: 1779691290580
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: f8f43ff0efb843589b831f3c7e2b4926
+run_name: rebellious-bee-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691286032
+status: 3
+tags: []
+user_id: hp

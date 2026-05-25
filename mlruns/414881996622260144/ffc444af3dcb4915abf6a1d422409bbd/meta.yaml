@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/ffc444af3dcb4915abf6a1d422409bbd/artifacts
+end_time: 1779690715620
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: ffc444af3dcb4915abf6a1d422409bbd
+run_name: charming-bee-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690711298
+status: 3
+tags: []
+user_id: hp

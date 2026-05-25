@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/942806ef34344845b49d65d260559a91/artifacts
+end_time: 1779692428111
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 942806ef34344845b49d65d260559a91
+run_name: bald-swan-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692423812
+status: 3
+tags: []
+user_id: hp

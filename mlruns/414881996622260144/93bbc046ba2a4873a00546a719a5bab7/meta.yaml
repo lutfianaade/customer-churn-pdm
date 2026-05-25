@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/93bbc046ba2a4873a00546a719a5bab7/artifacts
+end_time: 1779690539798
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 93bbc046ba2a4873a00546a719a5bab7
+run_name: righteous-bat-462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690535032
+status: 3
+tags: []
+user_id: hp

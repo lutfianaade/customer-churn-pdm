@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/960d081763ff45e4a0aa70e3f77b1637/artifacts
+end_time: 1779691054015
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 960d081763ff45e4a0aa70e3f77b1637
+run_name: legendary-asp-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691049583
+status: 3
+tags: []
+user_id: hp

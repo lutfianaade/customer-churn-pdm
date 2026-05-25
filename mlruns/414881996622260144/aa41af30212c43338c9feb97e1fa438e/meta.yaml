@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/aa41af30212c43338c9feb97e1fa438e/artifacts
+end_time: 1779690387379
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: aa41af30212c43338c9feb97e1fa438e
+run_name: illustrious-hen-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690381084
+status: 3
+tags: []
+user_id: hp

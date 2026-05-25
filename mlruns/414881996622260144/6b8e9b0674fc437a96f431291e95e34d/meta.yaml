@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/6b8e9b0674fc437a96f431291e95e34d/artifacts
+end_time: 1777988346603
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 6b8e9b0674fc437a96f431291e95e34d
+run_name: receptive-cub-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777988319798
+status: 3
+tags: []
+user_id: hp

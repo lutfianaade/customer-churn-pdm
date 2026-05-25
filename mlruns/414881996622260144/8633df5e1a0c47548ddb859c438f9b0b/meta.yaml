@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/8633df5e1a0c47548ddb859c438f9b0b/artifacts
+end_time: 1777988170183
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 8633df5e1a0c47548ddb859c438f9b0b
+run_name: zealous-toad-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777988152696
+status: 3
+tags: []
+user_id: hp

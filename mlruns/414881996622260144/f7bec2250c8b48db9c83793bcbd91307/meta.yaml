@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/f7bec2250c8b48db9c83793bcbd91307/artifacts
+end_time: 1779692037415
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: f7bec2250c8b48db9c83793bcbd91307
+run_name: crawling-bat-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692032750
+status: 3
+tags: []
+user_id: hp

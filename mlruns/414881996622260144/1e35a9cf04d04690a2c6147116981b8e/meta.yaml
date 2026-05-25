@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/1e35a9cf04d04690a2c6147116981b8e/artifacts
+end_time: 1779691472206
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 1e35a9cf04d04690a2c6147116981b8e
+run_name: popular-fawn-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691467789
+status: 3
+tags: []
+user_id: hp

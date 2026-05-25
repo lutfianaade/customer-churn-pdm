@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/47330d5fb10c4cb9b40766b812459690/artifacts
+end_time: 1779692584183
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 47330d5fb10c4cb9b40766b812459690
+run_name: traveling-smelt-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692579711
+status: 3
+tags: []
+user_id: hp

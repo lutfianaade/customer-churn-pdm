@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d68cf37e5fda481da5be02b77d4e539d/artifacts
+end_time: 1779691045013
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d68cf37e5fda481da5be02b77d4e539d
+run_name: silent-carp-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691040657
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b05f32d5e8f845f7b7af30ff9b3f9399/artifacts
+end_time: 1779691924871
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b05f32d5e8f845f7b7af30ff9b3f9399
+run_name: defiant-crow-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691920360
+status: 3
+tags: []
+user_id: hp

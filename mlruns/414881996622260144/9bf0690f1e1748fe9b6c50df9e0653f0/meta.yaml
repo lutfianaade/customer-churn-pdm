@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/9bf0690f1e1748fe9b6c50df9e0653f0/artifacts
+end_time: 1779692593942
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 9bf0690f1e1748fe9b6c50df9e0653f0
+run_name: skillful-cod-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692589142
+status: 3
+tags: []
+user_id: hp

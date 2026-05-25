@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/326aad36f90c41399fc9b79c2d37f9b2/artifacts
+end_time: 1779690314305
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 326aad36f90c41399fc9b79c2d37f9b2
+run_name: dazzling-doe-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690309926
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/c27bb24489f340f497a2237641153a8d/artifacts
+end_time: 1779691989298
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: c27bb24489f340f497a2237641153a8d
+run_name: worried-perch-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691984373
+status: 3
+tags: []
+user_id: hp

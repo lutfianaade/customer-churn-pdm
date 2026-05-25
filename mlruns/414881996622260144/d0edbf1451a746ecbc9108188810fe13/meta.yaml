@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d0edbf1451a746ecbc9108188810fe13/artifacts
+end_time: 1779692648850
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d0edbf1451a746ecbc9108188810fe13
+run_name: monumental-crab-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692644468
+status: 3
+tags: []
+user_id: hp

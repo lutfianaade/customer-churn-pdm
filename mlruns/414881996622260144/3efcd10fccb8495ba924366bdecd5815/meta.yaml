@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/3efcd10fccb8495ba924366bdecd5815/artifacts
+end_time: 1779691023133
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 3efcd10fccb8495ba924366bdecd5815
+run_name: rumbling-cat-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691022921
+status: 3
+tags: []
+user_id: hp

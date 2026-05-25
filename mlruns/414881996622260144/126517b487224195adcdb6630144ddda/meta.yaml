@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/126517b487224195adcdb6630144ddda/artifacts
+end_time: 1779691707503
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 126517b487224195adcdb6630144ddda
+run_name: burly-kit-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691702765
+status: 3
+tags: []
+user_id: hp

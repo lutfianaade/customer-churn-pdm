@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/aa19694cf4a6463aafba8ae1b22c7a63/artifacts
+end_time: 1779692419402
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: aa19694cf4a6463aafba8ae1b22c7a63
+run_name: peaceful-shad-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692414932
+status: 3
+tags: []
+user_id: hp

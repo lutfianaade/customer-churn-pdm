@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/1c8e26a1374342368149ee198dd4b2ac/artifacts
+end_time: 1777988319620
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 1c8e26a1374342368149ee198dd4b2ac
+run_name: crawling-bird-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777988300113
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/765ad6defc4a4ae2a3e2a4e3a1b815e2/artifacts
+end_time: 1779691568412
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 765ad6defc4a4ae2a3e2a4e3a1b815e2
+run_name: valuable-fish-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691563872
+status: 3
+tags: []
+user_id: hp

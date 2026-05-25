@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/221f9074415b4596b3a6c42985ff4cfd/artifacts
+end_time: 1779692607741
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 221f9074415b4596b3a6c42985ff4cfd
+run_name: unequaled-whale-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692603050
+status: 3
+tags: []
+user_id: hp

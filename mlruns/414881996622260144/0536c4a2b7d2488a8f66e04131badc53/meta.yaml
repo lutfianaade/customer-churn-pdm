@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0536c4a2b7d2488a8f66e04131badc53/artifacts
+end_time: 1779690273397
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0536c4a2b7d2488a8f66e04131badc53
+run_name: masked-mink-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690268959
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0c61efe8e0db4f3696d4540bbae918ed/artifacts
+end_time: 1779690990229
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0c61efe8e0db4f3696d4540bbae918ed
+run_name: unique-steed-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690985752
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/57a49e43458f4895b41be7fa31f5143c/artifacts
+end_time: 1779691741824
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 57a49e43458f4895b41be7fa31f5143c
+run_name: awesome-horse-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691736816
+status: 3
+tags: []
+user_id: hp

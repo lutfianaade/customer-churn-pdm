@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/4d1d34d09b0c4986897e561bd8770d98/artifacts
+end_time: 1777988289558
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 4d1d34d09b0c4986897e561bd8770d98
+run_name: stylish-asp-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777988274758
+status: 3
+tags: []
+user_id: hp

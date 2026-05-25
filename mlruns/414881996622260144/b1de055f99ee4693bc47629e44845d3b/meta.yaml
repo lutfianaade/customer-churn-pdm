@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b1de055f99ee4693bc47629e44845d3b/artifacts
+end_time: 1779691693040
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b1de055f99ee4693bc47629e44845d3b
+run_name: delicate-goose-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691688543
+status: 3
+tags: []
+user_id: hp

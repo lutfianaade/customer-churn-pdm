@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e008abeb2fd74335a17fb01bd27ccab1/artifacts
+end_time: 1779690259900
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e008abeb2fd74335a17fb01bd27ccab1
+run_name: dazzling-squirrel-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690255359
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/cafafa4042f04bf1ae050881d5a4184a/artifacts
+end_time: 1779691013962
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: cafafa4042f04bf1ae050881d5a4184a
+run_name: unruly-shrew-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691009397
+status: 3
+tags: []
+user_id: hp

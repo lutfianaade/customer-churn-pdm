@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/16bef42598d04cbe87e93176582c43e5/artifacts
+end_time: 1779691665582
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 16bef42598d04cbe87e93176582c43e5
+run_name: rebellious-bug-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691661040
+status: 3
+tags: []
+user_id: hp

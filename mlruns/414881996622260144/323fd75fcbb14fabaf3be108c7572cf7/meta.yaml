@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/323fd75fcbb14fabaf3be108c7572cf7/artifacts
+end_time: 1779692565853
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 323fd75fcbb14fabaf3be108c7572cf7
+run_name: bouncy-loon-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692561289
+status: 3
+tags: []
+user_id: hp

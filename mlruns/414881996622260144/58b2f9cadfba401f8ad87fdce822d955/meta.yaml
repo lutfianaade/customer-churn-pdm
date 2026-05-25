@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/58b2f9cadfba401f8ad87fdce822d955/artifacts
+end_time: 1779692570499
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 58b2f9cadfba401f8ad87fdce822d955
+run_name: smiling-squirrel-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692565863
+status: 3
+tags: []
+user_id: hp

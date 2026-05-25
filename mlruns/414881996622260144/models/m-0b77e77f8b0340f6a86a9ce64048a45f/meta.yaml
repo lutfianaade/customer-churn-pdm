@@ -1,0 +1,10 @@
+artifact_location: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/models/m-0b77e77f8b0340f6a86a9ce64048a45f/artifacts
+creation_timestamp: 1779691717510
+experiment_id: '414881996622260144'
+last_updated_timestamp: 1779691721270
+model_id: m-0b77e77f8b0340f6a86a9ce64048a45f
+model_type: null
+name: model
+source_run_id: 4535f4fd5d02494296464b6785eccb22
+status: 2
+status_message: null

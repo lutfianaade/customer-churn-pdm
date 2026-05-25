@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5e45b99ef5ea48dfa555c5e346e702ea/artifacts
+end_time: 1779690788689
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5e45b99ef5ea48dfa555c5e346e702ea
+run_name: tasteful-yak-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690784147
+status: 3
+tags: []
+user_id: hp

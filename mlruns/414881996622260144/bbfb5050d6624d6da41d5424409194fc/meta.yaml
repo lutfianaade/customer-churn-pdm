@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/bbfb5050d6624d6da41d5424409194fc/artifacts
+end_time: 1779691596535
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: bbfb5050d6624d6da41d5424409194fc
+run_name: nervous-dog-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691591664
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d923d99957314fad8d67abd32980c362/artifacts
+end_time: 1779691683951
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d923d99957314fad8d67abd32980c362
+run_name: placid-auk-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691679456
+status: 3
+tags: []
+user_id: hp

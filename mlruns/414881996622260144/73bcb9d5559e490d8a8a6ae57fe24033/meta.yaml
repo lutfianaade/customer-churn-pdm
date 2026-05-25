@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/73bcb9d5559e490d8a8a6ae57fe24033/artifacts
+end_time: 1779691178867
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 73bcb9d5559e490d8a8a6ae57fe24033
+run_name: welcoming-mole-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691174220
+status: 3
+tags: []
+user_id: hp

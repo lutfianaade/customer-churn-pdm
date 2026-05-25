@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0a053ebeb0a543f0a51e94c8fd1db103/artifacts
+end_time: 1779692181631
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0a053ebeb0a543f0a51e94c8fd1db103
+run_name: rare-auk-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692177210
+status: 3
+tags: []
+user_id: hp

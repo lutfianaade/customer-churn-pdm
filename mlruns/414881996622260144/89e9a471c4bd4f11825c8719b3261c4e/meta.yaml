@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/89e9a471c4bd4f11825c8719b3261c4e/artifacts
+end_time: 1779690231529
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 89e9a471c4bd4f11825c8719b3261c4e
+run_name: likeable-carp-855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690227095
+status: 3
+tags: []
+user_id: hp

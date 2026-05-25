@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/4dc80a6cce4b4d298c0d252d621d14dc/artifacts
+end_time: 1777988220992
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 4dc80a6cce4b4d298c0d252d621d14dc
+run_name: useful-moth-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777988213101
+status: 3
+tags: []
+user_id: hp

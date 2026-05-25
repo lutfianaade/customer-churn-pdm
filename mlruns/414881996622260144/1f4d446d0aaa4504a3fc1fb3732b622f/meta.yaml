@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/1f4d446d0aaa4504a3fc1fb3732b622f/artifacts
+end_time: 1779691865195
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 1f4d446d0aaa4504a3fc1fb3732b622f
+run_name: grandiose-dog-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691860566
+status: 3
+tags: []
+user_id: hp

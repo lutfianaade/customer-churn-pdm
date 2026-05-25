@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d0eb67ca560d4fdf90b0301f01c792ea/artifacts
+end_time: 1779690944840
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d0eb67ca560d4fdf90b0301f01c792ea
+run_name: silent-snail-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690940546
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5ac4944ea04a424db60828d8fcc82171/artifacts
+end_time: 1779692308086
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5ac4944ea04a424db60828d8fcc82171
+run_name: angry-snipe-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692303672
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/6bacb3692af44c908b552a79451b880c/artifacts
+end_time: 1779692172749
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 6bacb3692af44c908b552a79451b880c
+run_name: invincible-wasp-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692168409
+status: 3
+tags: []
+user_id: hp

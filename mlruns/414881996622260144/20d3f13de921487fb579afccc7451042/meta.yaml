@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/20d3f13de921487fb579afccc7451042/artifacts
+end_time: 1779690362146
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 20d3f13de921487fb579afccc7451042
+run_name: unique-turtle-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690354435
+status: 3
+tags: []
+user_id: hp

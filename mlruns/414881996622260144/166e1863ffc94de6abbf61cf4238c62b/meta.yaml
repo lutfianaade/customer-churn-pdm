@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/166e1863ffc94de6abbf61cf4238c62b/artifacts
+end_time: 1779690209230
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 166e1863ffc94de6abbf61cf4238c62b
+run_name: burly-dog-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690204654
+status: 3
+tags: []
+user_id: hp

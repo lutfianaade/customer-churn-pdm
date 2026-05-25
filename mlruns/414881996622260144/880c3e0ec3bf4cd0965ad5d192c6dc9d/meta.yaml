@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/880c3e0ec3bf4cd0965ad5d192c6dc9d/artifacts
+end_time: 1779691522269
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 880c3e0ec3bf4cd0965ad5d192c6dc9d
+run_name: secretive-shrike-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691517658
+status: 3
+tags: []
+user_id: hp

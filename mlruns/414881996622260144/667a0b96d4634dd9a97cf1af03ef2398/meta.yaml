@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/667a0b96d4634dd9a97cf1af03ef2398/artifacts
+end_time: 1779690036246
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 667a0b96d4634dd9a97cf1af03ef2398
+run_name: gentle-fowl-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690032045
+status: 3
+tags: []
+user_id: hp

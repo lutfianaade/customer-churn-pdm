@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/1fe7e564056841edb5f94e26cd4d4713/artifacts
+end_time: 1777988412669
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 1fe7e564056841edb5f94e26cd4d4713
+run_name: learned-kit-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777988399667
+status: 3
+tags: []
+user_id: hp

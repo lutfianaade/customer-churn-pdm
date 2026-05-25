@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/71435023ee2842b893e63807110ed9a4/artifacts
+end_time: 1779690918092
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 71435023ee2842b893e63807110ed9a4
+run_name: intelligent-deer-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690913621
+status: 3
+tags: []
+user_id: hp

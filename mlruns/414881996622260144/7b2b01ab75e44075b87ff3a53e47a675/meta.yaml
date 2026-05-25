@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/7b2b01ab75e44075b87ff3a53e47a675/artifacts
+end_time: 1779692639831
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 7b2b01ab75e44075b87ff3a53e47a675
+run_name: colorful-pug-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692635436
+status: 3
+tags: []
+user_id: hp

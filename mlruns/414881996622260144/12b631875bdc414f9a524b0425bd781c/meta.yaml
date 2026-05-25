@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/12b631875bdc414f9a524b0425bd781c/artifacts
+end_time: 1779691257681
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 12b631875bdc414f9a524b0425bd781c
+run_name: bald-rook-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691252820
+status: 3
+tags: []
+user_id: hp

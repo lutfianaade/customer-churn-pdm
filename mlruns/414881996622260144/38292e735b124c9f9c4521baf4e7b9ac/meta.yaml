@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/38292e735b124c9f9c4521baf4e7b9ac/artifacts
+end_time: 1779690063349
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 38292e735b124c9f9c4521baf4e7b9ac
+run_name: painted-kit-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690058882
+status: 3
+tags: []
+user_id: hp

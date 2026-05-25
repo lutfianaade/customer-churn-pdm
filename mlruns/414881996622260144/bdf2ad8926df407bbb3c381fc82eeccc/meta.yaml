@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/bdf2ad8926df407bbb3c381fc82eeccc/artifacts
+end_time: 1779691712188
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: bdf2ad8926df407bbb3c381fc82eeccc
+run_name: nimble-moose-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691707514
+status: 3
+tags: []
+user_id: hp

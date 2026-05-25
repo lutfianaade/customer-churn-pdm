@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/bb94157ec02e42069433ff1cf1cae640/artifacts
+end_time: 1779690549695
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: bb94157ec02e42069433ff1cf1cae640
+run_name: defiant-midge-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690545038
+status: 3
+tags: []
+user_id: hp

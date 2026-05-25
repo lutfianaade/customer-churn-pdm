@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/34a33a6b340940a1bde34d39df0c8ada/artifacts
+end_time: 1779690647517
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 34a33a6b340940a1bde34d39df0c8ada
+run_name: whimsical-bug-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690647291
+status: 3
+tags: []
+user_id: hp

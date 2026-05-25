@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e5c1ce9195f0494c9fe8a43868289907/artifacts
+end_time: 1779690406177
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e5c1ce9195f0494c9fe8a43868289907
+run_name: serious-gull-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690400240
+status: 3
+tags: []
+user_id: hp

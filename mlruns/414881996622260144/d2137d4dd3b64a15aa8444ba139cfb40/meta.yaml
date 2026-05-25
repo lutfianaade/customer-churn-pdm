@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d2137d4dd3b64a15aa8444ba139cfb40/artifacts
+end_time: 1779692326052
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d2137d4dd3b64a15aa8444ba139cfb40
+run_name: bittersweet-sow-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692321596
+status: 3
+tags: []
+user_id: hp

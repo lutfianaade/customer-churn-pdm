@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/3f96242f25cf4676830e6e3e3364484b/artifacts
+end_time: 1779690618885
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 3f96242f25cf4676830e6e3e3364484b
+run_name: fearless-midge-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690614002
+status: 3
+tags: []
+user_id: hp

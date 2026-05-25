@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/6877332f5a6a47f6b4d6082c6ee11b07/artifacts
+end_time: 1779690301169
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 6877332f5a6a47f6b4d6082c6ee11b07
+run_name: colorful-bat-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690296588
+status: 3
+tags: []
+user_id: hp

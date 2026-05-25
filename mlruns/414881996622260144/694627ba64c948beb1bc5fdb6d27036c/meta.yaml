@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/694627ba64c948beb1bc5fdb6d27036c/artifacts
+end_time: 1779692515055
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 694627ba64c948beb1bc5fdb6d27036c
+run_name: traveling-hound-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692510565
+status: 3
+tags: []
+user_id: hp

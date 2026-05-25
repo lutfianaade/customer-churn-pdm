@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/917e617410fe4b43a2faec3336f095ea/artifacts
+end_time: 1779690128049
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 917e617410fe4b43a2faec3336f095ea
+run_name: vaunted-vole-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690123583
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b9265128c5dd402f93cd27845c46a1ec/artifacts
+end_time: 1779690173122
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b9265128c5dd402f93cd27845c46a1ec
+run_name: chill-yak-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690168581
+status: 3
+tags: []
+user_id: hp

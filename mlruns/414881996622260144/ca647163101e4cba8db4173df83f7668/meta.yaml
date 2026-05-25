@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/ca647163101e4cba8db4173df83f7668/artifacts
+end_time: 1779692227097
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: ca647163101e4cba8db4173df83f7668
+run_name: bright-colt-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692222388
+status: 3
+tags: []
+user_id: hp

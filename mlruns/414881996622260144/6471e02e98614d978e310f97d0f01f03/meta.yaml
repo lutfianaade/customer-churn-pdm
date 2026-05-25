@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/6471e02e98614d978e310f97d0f01f03/artifacts
+end_time: 1779691947162
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 6471e02e98614d978e310f97d0f01f03
+run_name: resilient-whale-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691942568
+status: 3
+tags: []
+user_id: hp

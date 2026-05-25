@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/07836722f2bb47bf8cbb5e168a36c6bf/artifacts
+end_time: 1779691027351
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 07836722f2bb47bf8cbb5e168a36c6bf
+run_name: tasteful-rat-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691023143
+status: 3
+tags: []
+user_id: hp

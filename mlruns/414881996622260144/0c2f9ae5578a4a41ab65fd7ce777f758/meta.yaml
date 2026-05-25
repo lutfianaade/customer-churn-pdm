@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0c2f9ae5578a4a41ab65fd7ce777f758/artifacts
+end_time: 1779692694933
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0c2f9ae5578a4a41ab65fd7ce777f758
+run_name: honorable-crab-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692690301
+status: 3
+tags: []
+user_id: hp

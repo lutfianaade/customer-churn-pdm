@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/61a169bd334143d7aa18555f5d64804d/artifacts
+end_time: 1779690146197
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 61a169bd334143d7aa18555f5d64804d
+run_name: treasured-shrimp-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690141600
+status: 3
+tags: []
+user_id: hp

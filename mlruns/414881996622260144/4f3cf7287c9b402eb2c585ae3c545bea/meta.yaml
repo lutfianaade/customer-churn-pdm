@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/4f3cf7287c9b402eb2c585ae3c545bea/artifacts
+end_time: 1779690994844
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 4f3cf7287c9b402eb2c585ae3c545bea
+run_name: sassy-hen-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690990241
+status: 3
+tags: []
+user_id: hp

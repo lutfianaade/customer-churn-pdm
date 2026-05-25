@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5153bd1f9feb46bebc74dad2f594ff71/artifacts
+end_time: 1779690852370
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5153bd1f9feb46bebc74dad2f594ff71
+run_name: suave-hen-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690847623
+status: 3
+tags: []
+user_id: hp

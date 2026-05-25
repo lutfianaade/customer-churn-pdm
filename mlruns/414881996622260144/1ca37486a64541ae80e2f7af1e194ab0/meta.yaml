@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/1ca37486a64541ae80e2f7af1e194ab0/artifacts
+end_time: 1779692081276
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 1ca37486a64541ae80e2f7af1e194ab0
+run_name: entertaining-pug-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692076517
+status: 3
+tags: []
+user_id: hp

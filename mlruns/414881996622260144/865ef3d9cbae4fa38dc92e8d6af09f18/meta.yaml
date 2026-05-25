@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/865ef3d9cbae4fa38dc92e8d6af09f18/artifacts
+end_time: 1779691933448
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 865ef3d9cbae4fa38dc92e8d6af09f18
+run_name: dashing-conch-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691929162
+status: 3
+tags: []
+user_id: hp

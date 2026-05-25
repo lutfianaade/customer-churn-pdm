@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/af8fa1e733b348c9b34974f354e4d59a/artifacts
+end_time: 1779691224578
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: af8fa1e733b348c9b34974f354e4d59a
+run_name: stately-bear-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691220045
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/8ecd964dae8e40b6a91ef5c940cf8ed3/artifacts
+end_time: 1779690895482
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 8ecd964dae8e40b6a91ef5c940cf8ed3
+run_name: treasured-goat-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690890837
+status: 3
+tags: []
+user_id: hp

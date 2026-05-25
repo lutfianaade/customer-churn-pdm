@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5b0c0e2d162e47c6adf4bf3691358e3e/artifacts
+end_time: 1779690444866
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5b0c0e2d162e47c6adf4bf3691358e3e
+run_name: adventurous-stag-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690439737
+status: 3
+tags: []
+user_id: hp

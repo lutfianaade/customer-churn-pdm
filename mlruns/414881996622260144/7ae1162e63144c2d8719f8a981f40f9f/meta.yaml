@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/7ae1162e63144c2d8719f8a981f40f9f/artifacts
+end_time: 1779690600274
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 7ae1162e63144c2d8719f8a981f40f9f
+run_name: shivering-sow-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690595785
+status: 3
+tags: []
+user_id: hp

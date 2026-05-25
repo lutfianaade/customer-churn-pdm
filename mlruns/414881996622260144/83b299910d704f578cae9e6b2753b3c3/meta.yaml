@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/83b299910d704f578cae9e6b2753b3c3/artifacts
+end_time: 1779691633763
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 83b299910d704f578cae9e6b2753b3c3
+run_name: casual-carp-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691629039
+status: 3
+tags: []
+user_id: hp

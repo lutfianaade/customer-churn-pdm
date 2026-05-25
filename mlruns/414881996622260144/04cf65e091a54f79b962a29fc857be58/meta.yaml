@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/04cf65e091a54f79b962a29fc857be58/artifacts
+end_time: 1779691490460
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 04cf65e091a54f79b962a29fc857be58
+run_name: agreeable-tern-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691485995
+status: 3
+tags: []
+user_id: hp

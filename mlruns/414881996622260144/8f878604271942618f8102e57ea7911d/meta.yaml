@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/8f878604271942618f8102e57ea7911d/artifacts
+end_time: 1779690354397
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 8f878604271942618f8102e57ea7911d
+run_name: gaudy-worm-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690346834
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/12a8829dfed64945903ac18f627514b2/artifacts
+end_time: 1779691267179
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 12a8829dfed64945903ac18f627514b2
+run_name: exultant-hog-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691262435
+status: 3
+tags: []
+user_id: hp

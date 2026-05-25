@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/00ad50cb378b438d967b184aff2e4efe/artifacts
+end_time: 1779691559150
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 00ad50cb378b438d967b184aff2e4efe
+run_name: unequaled-bass-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691554453
+status: 3
+tags: []
+user_id: hp

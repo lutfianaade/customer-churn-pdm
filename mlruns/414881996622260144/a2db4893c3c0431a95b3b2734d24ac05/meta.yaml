@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/a2db4893c3c0431a95b3b2734d24ac05/artifacts
+end_time: 1779691855534
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: a2db4893c3c0431a95b3b2734d24ac05
+run_name: intrigued-sheep-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691850671
+status: 3
+tags: []
+user_id: hp

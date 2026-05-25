@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/6042c4698faf44fe91f36c1e428d688d/artifacts
+end_time: 1779691031824
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 6042c4698faf44fe91f36c1e428d688d
+run_name: orderly-auk-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691027361
+status: 3
+tags: []
+user_id: hp

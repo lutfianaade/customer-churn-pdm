@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e6640a78e80a4bc58a1a862d487a9217/artifacts
+end_time: 1779691215452
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e6640a78e80a4bc58a1a862d487a9217
+run_name: suave-mink-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691211080
+status: 3
+tags: []
+user_id: hp

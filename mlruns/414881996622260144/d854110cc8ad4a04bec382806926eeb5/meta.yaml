@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d854110cc8ad4a04bec382806926eeb5/artifacts
+end_time: 1779690770236
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d854110cc8ad4a04bec382806926eeb5
+run_name: melodic-kit-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690765786
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/465e414dc9414f08ba3b6dc1f4f7e310/artifacts
+end_time: 1779691036249
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 465e414dc9414f08ba3b6dc1f4f7e310
+run_name: silent-jay-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691031848
+status: 3
+tags: []
+user_id: hp

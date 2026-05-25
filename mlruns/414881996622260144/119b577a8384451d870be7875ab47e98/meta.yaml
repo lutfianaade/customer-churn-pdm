@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/119b577a8384451d870be7875ab47e98/artifacts
+end_time: 1779692013498
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 119b577a8384451d870be7875ab47e98
+run_name: nervous-robin-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692008856
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/fb8841ccfcb54720815f71c80ae5cd6c/artifacts
+end_time: 1779691736794
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: fb8841ccfcb54720815f71c80ae5cd6c
+run_name: rare-colt-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691732053
+status: 3
+tags: []
+user_id: hp

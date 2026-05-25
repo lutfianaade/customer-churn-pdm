@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b8fd7fc81e2c4e4093dfddead5b9b8cd/artifacts
+end_time: 1779690679561
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b8fd7fc81e2c4e4093dfddead5b9b8cd
+run_name: judicious-ram-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690674938
+status: 3
+tags: []
+user_id: hp

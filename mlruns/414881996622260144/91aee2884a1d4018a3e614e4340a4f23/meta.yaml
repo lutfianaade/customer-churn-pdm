@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/91aee2884a1d4018a3e614e4340a4f23/artifacts
+end_time: 1779690981138
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 91aee2884a1d4018a3e614e4340a4f23
+run_name: nosy-finch-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690976380
+status: 3
+tags: []
+user_id: hp

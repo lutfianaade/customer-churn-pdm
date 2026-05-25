@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/8b60ea2f065a4547a9ad488357b56589/artifacts
+end_time: 1779691965317
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 8b60ea2f065a4547a9ad488357b56589
+run_name: nosy-roo-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691960693
+status: 3
+tags: []
+user_id: hp

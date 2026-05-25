@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/a830cde6e93e4188a94bd47d4cca9358/artifacts
+end_time: 1779692524205
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: a830cde6e93e4188a94bd47d4cca9358
+run_name: useful-lark-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692519662
+status: 3
+tags: []
+user_id: hp

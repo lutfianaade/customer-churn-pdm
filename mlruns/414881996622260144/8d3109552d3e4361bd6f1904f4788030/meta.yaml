@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/8d3109552d3e4361bd6f1904f4788030/artifacts
+end_time: 1779691248198
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 8d3109552d3e4361bd6f1904f4788030
+run_name: indecisive-conch-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691243465
+status: 3
+tags: []
+user_id: hp

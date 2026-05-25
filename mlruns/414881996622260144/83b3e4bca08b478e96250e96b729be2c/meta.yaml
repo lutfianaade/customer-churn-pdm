@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/83b3e4bca08b478e96250e96b729be2c/artifacts
+end_time: 1779690077807
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 83b3e4bca08b478e96250e96b729be2c
+run_name: learned-moth-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690073223
+status: 3
+tags: []
+user_id: hp

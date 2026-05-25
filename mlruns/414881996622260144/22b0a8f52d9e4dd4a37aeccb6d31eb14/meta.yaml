@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/22b0a8f52d9e4dd4a37aeccb6d31eb14/artifacts
+end_time: 1779692469432
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 22b0a8f52d9e4dd4a37aeccb6d31eb14
+run_name: resilient-sponge-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692464747
+status: 3
+tags: []
+user_id: hp

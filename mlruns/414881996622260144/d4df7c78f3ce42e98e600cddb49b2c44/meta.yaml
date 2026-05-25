@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d4df7c78f3ce42e98e600cddb49b2c44/artifacts
+end_time: 1779692464734
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d4df7c78f3ce42e98e600cddb49b2c44
+run_name: abrasive-gull-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692460256
+status: 3
+tags: []
+user_id: hp

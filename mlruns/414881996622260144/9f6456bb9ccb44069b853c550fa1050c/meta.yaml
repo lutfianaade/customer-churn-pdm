@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/9f6456bb9ccb44069b853c550fa1050c/artifacts
+end_time: 1779692575183
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 9f6456bb9ccb44069b853c550fa1050c
+run_name: skittish-cod-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692570510
+status: 3
+tags: []
+user_id: hp

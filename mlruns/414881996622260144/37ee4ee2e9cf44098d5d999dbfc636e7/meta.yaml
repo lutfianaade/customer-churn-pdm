@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/37ee4ee2e9cf44098d5d999dbfc636e7/artifacts
+end_time: 1779690456728
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 37ee4ee2e9cf44098d5d999dbfc636e7
+run_name: debonair-shrike-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690451298
+status: 3
+tags: []
+user_id: hp

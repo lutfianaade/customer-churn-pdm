@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5e085ecc94444aab964c3178f7102c3b/artifacts
+end_time: 1779691902418
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5e085ecc94444aab964c3178f7102c3b
+run_name: inquisitive-wren-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691897841
+status: 3
+tags: []
+user_id: hp

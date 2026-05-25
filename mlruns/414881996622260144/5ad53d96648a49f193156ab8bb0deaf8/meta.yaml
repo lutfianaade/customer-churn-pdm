@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5ad53d96648a49f193156ab8bb0deaf8/artifacts
+end_time: 1779691717196
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5ad53d96648a49f193156ab8bb0deaf8
+run_name: able-hog-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691712200
+status: 3
+tags: []
+user_id: hp

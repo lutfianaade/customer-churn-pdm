@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/1c644339261b4451b95ebfd8cb1a0394/artifacts
+end_time: 1779690520526
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 1c644339261b4451b95ebfd8cb1a0394
+run_name: monumental-cat-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690516143
+status: 3
+tags: []
+user_id: hp

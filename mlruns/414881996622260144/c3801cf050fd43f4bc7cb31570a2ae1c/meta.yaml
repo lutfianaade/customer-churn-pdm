@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/c3801cf050fd43f4bc7cb31570a2ae1c/artifacts
+end_time: 1779691348527
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: c3801cf050fd43f4bc7cb31570a2ae1c
+run_name: respected-bat-853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691343472
+status: 3
+tags: []
+user_id: hp

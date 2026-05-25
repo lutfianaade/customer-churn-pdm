@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d92ea532d202491b882dd614914be9e7/artifacts
+end_time: 1779692066723
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d92ea532d202491b882dd614914be9e7
+run_name: clean-conch-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692061648
+status: 3
+tags: []
+user_id: hp

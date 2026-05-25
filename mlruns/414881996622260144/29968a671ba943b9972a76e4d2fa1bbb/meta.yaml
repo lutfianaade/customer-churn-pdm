@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/29968a671ba943b9972a76e4d2fa1bbb/artifacts
+end_time: 1779691353187
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 29968a671ba943b9972a76e4d2fa1bbb
+run_name: casual-bee-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691348540
+status: 3
+tags: []
+user_id: hp

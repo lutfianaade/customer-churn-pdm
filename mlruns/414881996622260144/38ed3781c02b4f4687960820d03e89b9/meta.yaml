@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/38ed3781c02b4f4687960820d03e89b9/artifacts
+end_time: 1779691765355
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 38ed3781c02b4f4687960820d03e89b9
+run_name: serious-doe-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779691760970
+status: 3
+tags: []
+user_id: hp

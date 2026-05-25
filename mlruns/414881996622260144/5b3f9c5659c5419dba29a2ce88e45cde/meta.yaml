@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5b3f9c5659c5419dba29a2ce88e45cde/artifacts
+end_time: 1779692279872
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5b3f9c5659c5419dba29a2ce88e45cde
+run_name: legendary-fowl-614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692275186
+status: 3
+tags: []
+user_id: hp

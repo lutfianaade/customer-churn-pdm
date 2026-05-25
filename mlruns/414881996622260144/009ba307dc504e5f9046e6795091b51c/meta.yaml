@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/009ba307dc504e5f9046e6795091b51c/artifacts
+end_time: 1779692104274
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 009ba307dc504e5f9046e6795091b51c
+run_name: bouncy-mole-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779692099786
+status: 3
+tags: []
+user_id: hp

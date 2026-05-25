@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/6e11163e48054e1b94bbc2a5aaf0fc2e/artifacts
+end_time: 1779690591213
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 6e11163e48054e1b94bbc2a5aaf0fc2e
+run_name: classy-snail-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779690586671
+status: 3
+tags: []
+user_id: hp
