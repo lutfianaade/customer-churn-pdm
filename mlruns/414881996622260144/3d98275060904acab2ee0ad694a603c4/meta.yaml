@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/3d98275060904acab2ee0ad694a603c4/artifacts
+end_time: 1779700290054
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 3d98275060904acab2ee0ad694a603c4
+run_name: placid-shark-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700285244
+status: 3
+tags: []
+user_id: lutfianaade

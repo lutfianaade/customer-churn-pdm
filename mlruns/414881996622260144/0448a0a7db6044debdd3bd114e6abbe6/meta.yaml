@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0448a0a7db6044debdd3bd114e6abbe6/artifacts
+end_time: 1779699921975
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0448a0a7db6044debdd3bd114e6abbe6
+run_name: mercurial-wren-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699917328
+status: 3
+tags: []
+user_id: lutfianaade

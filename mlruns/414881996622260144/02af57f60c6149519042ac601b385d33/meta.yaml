@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/02af57f60c6149519042ac601b385d33/artifacts
+end_time: 1779700198171
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 02af57f60c6149519042ac601b385d33
+run_name: grandiose-stork-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700193011
+status: 3
+tags: []
+user_id: lutfianaade

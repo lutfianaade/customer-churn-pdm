@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/06be72823e364e168e64f20d5ed9a1fe/artifacts
+end_time: 1779701213363
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 06be72823e364e168e64f20d5ed9a1fe
+run_name: rare-dolphin-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701208430
+status: 3
+tags: []
+user_id: lutfianaade

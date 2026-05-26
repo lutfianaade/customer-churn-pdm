@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/a66c6482d2fb4bbf8448531b4e350b72/artifacts
+end_time: 1779700486604
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: a66c6482d2fb4bbf8448531b4e350b72
+run_name: awesome-cat-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700482222
+status: 3
+tags: []
+user_id: lutfianaade

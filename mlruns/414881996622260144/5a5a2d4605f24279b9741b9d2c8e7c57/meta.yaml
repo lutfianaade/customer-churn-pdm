@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5a5a2d4605f24279b9741b9d2c8e7c57/artifacts
+end_time: 1779700221269
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5a5a2d4605f24279b9741b9d2c8e7c57
+run_name: skillful-elk-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700216730
+status: 3
+tags: []
+user_id: lutfianaade

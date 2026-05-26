@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/ea5a57d23a4a4841ae7c2d040b46063b/artifacts
+end_time: 1779700101036
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: ea5a57d23a4a4841ae7c2d040b46063b
+run_name: gaudy-cat-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700096549
+status: 3
+tags: []
+user_id: lutfianaade

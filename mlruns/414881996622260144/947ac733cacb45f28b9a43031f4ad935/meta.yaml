@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/947ac733cacb45f28b9a43031f4ad935/artifacts
+end_time: 1779700193002
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 947ac733cacb45f28b9a43031f4ad935
+run_name: orderly-wren-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700188216
+status: 3
+tags: []
+user_id: lutfianaade

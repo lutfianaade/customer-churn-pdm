@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/592ae73231894193b960acf948a1568a/artifacts
+end_time: 1779699510574
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 592ae73231894193b960acf948a1568a
+run_name: trusting-grouse-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699503725
+status: 3
+tags: []
+user_id: lutfianaade

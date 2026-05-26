@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/c308e92566e34188bcb3521b3c6cd880/artifacts
+end_time: 1779700453539
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: c308e92566e34188bcb3521b3c6cd880
+run_name: nebulous-flea-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700447824
+status: 3
+tags: []
+user_id: lutfianaade

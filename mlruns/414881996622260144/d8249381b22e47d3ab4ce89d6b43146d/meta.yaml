@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d8249381b22e47d3ab4ce89d6b43146d/artifacts
+end_time: 1779700500974
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d8249381b22e47d3ab4ce89d6b43146d
+run_name: wise-bat-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700496077
+status: 3
+tags: []
+user_id: lutfianaade

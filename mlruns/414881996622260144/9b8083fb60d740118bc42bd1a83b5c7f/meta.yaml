@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/9b8083fb60d740118bc42bd1a83b5c7f/artifacts
+end_time: 1779699800978
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 9b8083fb60d740118bc42bd1a83b5c7f
+run_name: dashing-wren-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699796385
+status: 3
+tags: []
+user_id: lutfianaade

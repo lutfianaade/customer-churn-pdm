@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/fee3fd3a75924daead265ef89bb2372c/artifacts
+end_time: 1779700275836
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: fee3fd3a75924daead265ef89bb2372c
+run_name: burly-ram-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700271246
+status: 3
+tags: []
+user_id: lutfianaade

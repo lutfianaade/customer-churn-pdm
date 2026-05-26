@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/3464f61ce8c54dfdbb8041a253f1ce51/artifacts
+end_time: 1779699917309
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 3464f61ce8c54dfdbb8041a253f1ce51
+run_name: big-panda-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699912619
+status: 3
+tags: []
+user_id: lutfianaade

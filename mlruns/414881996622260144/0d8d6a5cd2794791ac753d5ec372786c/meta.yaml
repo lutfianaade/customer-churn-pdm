@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0d8d6a5cd2794791ac753d5ec372786c/artifacts
+end_time: 1779699754759
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0d8d6a5cd2794791ac753d5ec372786c
+run_name: omniscient-sheep-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699750079
+status: 3
+tags: []
+user_id: lutfianaade

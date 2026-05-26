@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/7b0a05ca9590431ca9a183c7d5d168ea/artifacts
+end_time: 1779699693034
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 7b0a05ca9590431ca9a183c7d5d168ea
+run_name: mercurial-squid-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699688125
+status: 3
+tags: []
+user_id: lutfianaade

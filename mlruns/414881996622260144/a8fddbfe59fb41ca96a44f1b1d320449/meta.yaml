@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/a8fddbfe59fb41ca96a44f1b1d320449/artifacts
+end_time: 1779700921416
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: a8fddbfe59fb41ca96a44f1b1d320449
+run_name: sedate-panda-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700916064
+status: 3
+tags: []
+user_id: lutfianaade

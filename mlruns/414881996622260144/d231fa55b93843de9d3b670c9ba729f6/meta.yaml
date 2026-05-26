@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d231fa55b93843de9d3b670c9ba729f6/artifacts
+end_time: 1779700161273
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d231fa55b93843de9d3b670c9ba729f6
+run_name: bedecked-conch-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700157000
+status: 3
+tags: []
+user_id: lutfianaade

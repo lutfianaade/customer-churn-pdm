@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/631dd31146cc43deb28e0de68097e832/artifacts
+end_time: 1779700832589
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 631dd31146cc43deb28e0de68097e832
+run_name: adaptable-shrew-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700828080
+status: 3
+tags: []
+user_id: lutfianaade

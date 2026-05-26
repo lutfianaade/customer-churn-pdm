@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e5fa07619f384896bb63aff04e185ddf/artifacts
+end_time: 1779700608981
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e5fa07619f384896bb63aff04e185ddf
+run_name: dapper-wren-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700603995
+status: 3
+tags: []
+user_id: lutfianaade

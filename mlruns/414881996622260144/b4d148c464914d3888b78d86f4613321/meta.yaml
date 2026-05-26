@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b4d148c464914d3888b78d86f4613321/artifacts
+end_time: 1779701904726
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b4d148c464914d3888b78d86f4613321
+run_name: dashing-dog-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701899898
+status: 3
+tags: []
+user_id: lutfianaade

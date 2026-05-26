@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b716c7f2a68a4f6b9a691beef34b70f8/artifacts
+end_time: 1779702015921
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b716c7f2a68a4f6b9a691beef34b70f8
+run_name: resilient-auk-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779702011310
+status: 3
+tags: []
+user_id: lutfianaade

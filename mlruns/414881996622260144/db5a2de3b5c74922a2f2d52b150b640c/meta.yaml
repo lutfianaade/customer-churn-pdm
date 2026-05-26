@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/db5a2de3b5c74922a2f2d52b150b640c/artifacts
+end_time: 1779700368499
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: db5a2de3b5c74922a2f2d52b150b640c
+run_name: popular-vole-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700363171
+status: 3
+tags: []
+user_id: lutfianaade

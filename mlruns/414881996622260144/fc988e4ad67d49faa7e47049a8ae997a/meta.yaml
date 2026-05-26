@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/fc988e4ad67d49faa7e47049a8ae997a/artifacts
+end_time: 1779699720724
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: fc988e4ad67d49faa7e47049a8ae997a
+run_name: capricious-owl-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699716176
+status: 3
+tags: []
+user_id: lutfianaade

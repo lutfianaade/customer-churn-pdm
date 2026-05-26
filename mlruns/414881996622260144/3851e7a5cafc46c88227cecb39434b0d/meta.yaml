@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/3851e7a5cafc46c88227cecb39434b0d/artifacts
+end_time: 1779701678700
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 3851e7a5cafc46c88227cecb39434b0d
+run_name: carefree-penguin-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701674026
+status: 3
+tags: []
+user_id: lutfianaade

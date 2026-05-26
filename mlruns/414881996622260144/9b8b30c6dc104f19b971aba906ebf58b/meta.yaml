@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/9b8b30c6dc104f19b971aba906ebf58b/artifacts
+end_time: 1779699860992
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 9b8b30c6dc104f19b971aba906ebf58b
+run_name: thundering-colt-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699856591
+status: 3
+tags: []
+user_id: lutfianaade

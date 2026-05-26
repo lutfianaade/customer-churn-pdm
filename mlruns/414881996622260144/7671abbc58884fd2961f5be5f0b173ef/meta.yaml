@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/7671abbc58884fd2961f5be5f0b173ef/artifacts
+end_time: 1779701005604
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 7671abbc58884fd2961f5be5f0b173ef
+run_name: dapper-gnat-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701000844
+status: 3
+tags: []
+user_id: lutfianaade

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e251e5aa3a3c462ead31403b1b3cfa85/artifacts
+end_time: 1779700510686
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e251e5aa3a3c462ead31403b1b3cfa85
+run_name: capricious-skunk-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700505870
+status: 3
+tags: []
+user_id: lutfianaade

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0c79fa754b5745d8a9600c2eebe864af/artifacts
+end_time: 1779701561560
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0c79fa754b5745d8a9600c2eebe864af
+run_name: awesome-squirrel-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701556653
+status: 3
+tags: []
+user_id: lutfianaade

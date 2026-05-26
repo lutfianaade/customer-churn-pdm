@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/82102cec8a8e46ecae8d2f1ca6767d1c/artifacts
+end_time: 1779701868586
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 82102cec8a8e46ecae8d2f1ca6767d1c
+run_name: suave-owl-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701863363
+status: 3
+tags: []
+user_id: lutfianaade

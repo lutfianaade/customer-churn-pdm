@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/e0fbbe57579148939dd126961f4f7721/artifacts
+end_time: 1779701798346
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: e0fbbe57579148939dd126961f4f7721
+run_name: clean-squid-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701793457
+status: 3
+tags: []
+user_id: lutfianaade

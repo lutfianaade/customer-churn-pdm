@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/2480ae41e53941808c79a0e63bb3d24a/artifacts
+end_time: 1779701038865
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 2480ae41e53941808c79a0e63bb3d24a
+run_name: receptive-wasp-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701034103
+status: 3
+tags: []
+user_id: lutfianaade

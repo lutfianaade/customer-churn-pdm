@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/4026ff959d9f4cefadf283445b4e1eae/artifacts
+end_time: 1779702103979
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 4026ff959d9f4cefadf283445b4e1eae
+run_name: smiling-crab-614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779702098877
+status: 3
+tags: []
+user_id: lutfianaade

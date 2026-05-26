@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/97a564c50ec54d8a80ab3e0cfda8b52e/artifacts
+end_time: 1779700744160
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 97a564c50ec54d8a80ab3e0cfda8b52e
+run_name: fortunate-flea-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700738875
+status: 3
+tags: []
+user_id: lutfianaade

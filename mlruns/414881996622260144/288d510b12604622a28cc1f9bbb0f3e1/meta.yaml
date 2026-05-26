@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/288d510b12604622a28cc1f9bbb0f3e1/artifacts
+end_time: 1779702181540
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 288d510b12604622a28cc1f9bbb0f3e1
+run_name: sassy-stork-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779702176634
+status: 3
+tags: []
+user_id: lutfianaade

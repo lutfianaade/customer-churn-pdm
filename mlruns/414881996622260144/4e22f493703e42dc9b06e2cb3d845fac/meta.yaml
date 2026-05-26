@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/4e22f493703e42dc9b06e2cb3d845fac/artifacts
+end_time: 1779701745655
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 4e22f493703e42dc9b06e2cb3d845fac
+run_name: big-cub-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701741008
+status: 3
+tags: []
+user_id: lutfianaade

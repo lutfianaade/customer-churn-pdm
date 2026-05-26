@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/eb15f1c2876f47b1a5822a34dc1c978d/artifacts
+end_time: 1779701639740
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: eb15f1c2876f47b1a5822a34dc1c978d
+run_name: trusting-crab-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701634433
+status: 3
+tags: []
+user_id: lutfianaade

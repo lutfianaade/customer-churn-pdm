@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5d2303d34879469a9e37007c90cdbfdd/artifacts
+end_time: 1779700966683
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5d2303d34879469a9e37007c90cdbfdd
+run_name: languid-pug-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700961440
+status: 3
+tags: []
+user_id: lutfianaade

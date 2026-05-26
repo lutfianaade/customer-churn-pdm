@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5816c82fd95a4a65b090befa9a5109e7/artifacts
+end_time: 1779699745568
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5816c82fd95a4a65b090befa9a5109e7
+run_name: calm-kit-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699740910
+status: 3
+tags: []
+user_id: lutfianaade

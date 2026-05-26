@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/35974f453db1413396bc78919eda914d/artifacts
+end_time: 1779699898761
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 35974f453db1413396bc78919eda914d
+run_name: spiffy-robin-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699894084
+status: 3
+tags: []
+user_id: lutfianaade

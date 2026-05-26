@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/affe2ca95f7141dda358072f4cd4d39d/artifacts
+end_time: 1779700531029
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: affe2ca95f7141dda358072f4cd4d39d
+run_name: agreeable-finch-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700526332
+status: 3
+tags: []
+user_id: lutfianaade

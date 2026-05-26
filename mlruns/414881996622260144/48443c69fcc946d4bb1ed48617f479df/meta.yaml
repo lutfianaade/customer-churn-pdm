@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/48443c69fcc946d4bb1ed48617f479df/artifacts
+end_time: 1779701664395
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 48443c69fcc946d4bb1ed48617f479df
+run_name: beautiful-mule-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701659706
+status: 3
+tags: []
+user_id: lutfianaade

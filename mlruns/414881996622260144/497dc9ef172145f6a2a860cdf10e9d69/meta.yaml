@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/497dc9ef172145f6a2a860cdf10e9d69/artifacts
+end_time: 1779700961427
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 497dc9ef172145f6a2a860cdf10e9d69
+run_name: trusting-worm-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700956732
+status: 3
+tags: []
+user_id: lutfianaade

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/f5be3af025514606a0568ea523e8cafe/artifacts
+end_time: 1779700936629
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: f5be3af025514606a0568ea523e8cafe
+run_name: masked-gnat-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700931698
+status: 3
+tags: []
+user_id: lutfianaade

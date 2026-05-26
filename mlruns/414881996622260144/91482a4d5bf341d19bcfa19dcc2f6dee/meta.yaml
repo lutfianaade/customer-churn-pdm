@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/91482a4d5bf341d19bcfa19dcc2f6dee/artifacts
+end_time: 1779700026564
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 91482a4d5bf341d19bcfa19dcc2f6dee
+run_name: awesome-finch-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700022081
+status: 3
+tags: []
+user_id: lutfianaade

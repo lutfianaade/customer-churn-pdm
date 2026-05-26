@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b536eeafac1840e284b3388cee5f819b/artifacts
+end_time: 1779702059334
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b536eeafac1840e284b3388cee5f819b
+run_name: spiffy-mink-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779702054527
+status: 3
+tags: []
+user_id: lutfianaade

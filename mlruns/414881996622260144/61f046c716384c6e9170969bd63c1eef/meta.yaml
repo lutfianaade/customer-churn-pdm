@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/61f046c716384c6e9170969bd63c1eef/artifacts
+end_time: 1779700941728
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 61f046c716384c6e9170969bd63c1eef
+run_name: smiling-sloth-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700936648
+status: 3
+tags: []
+user_id: lutfianaade

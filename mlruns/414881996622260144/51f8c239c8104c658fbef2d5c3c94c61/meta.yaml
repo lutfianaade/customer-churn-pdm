@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/51f8c239c8104c658fbef2d5c3c94c61/artifacts
+end_time: 1779699927030
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 51f8c239c8104c658fbef2d5c3c94c61
+run_name: likeable-croc-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699921985
+status: 3
+tags: []
+user_id: lutfianaade

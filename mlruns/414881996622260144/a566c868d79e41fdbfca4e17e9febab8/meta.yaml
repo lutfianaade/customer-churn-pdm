@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/a566c868d79e41fdbfca4e17e9febab8/artifacts
+end_time: 1779700147870
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: a566c868d79e41fdbfca4e17e9febab8
+run_name: fun-slug-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700143209
+status: 3
+tags: []
+user_id: lutfianaade

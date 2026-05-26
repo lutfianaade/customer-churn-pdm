@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/afc9728e2bac48ddaaa7a6c48ff8a603/artifacts
+end_time: 1779700082307
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: afc9728e2bac48ddaaa7a6c48ff8a603
+run_name: dashing-finch-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700082024
+status: 3
+tags: []
+user_id: lutfianaade

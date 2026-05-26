@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/6fab0d46190c4bff93468ee53065d453/artifacts
+end_time: 1779699964653
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 6fab0d46190c4bff93468ee53065d453
+run_name: persistent-duck-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699959830
+status: 3
+tags: []
+user_id: lutfianaade

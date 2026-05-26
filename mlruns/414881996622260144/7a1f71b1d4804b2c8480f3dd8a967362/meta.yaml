@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/7a1f71b1d4804b2c8480f3dd8a967362/artifacts
+end_time: 1779699572977
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 7a1f71b1d4804b2c8480f3dd8a967362
+run_name: rumbling-gnat-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699565497
+status: 3
+tags: []
+user_id: lutfianaade

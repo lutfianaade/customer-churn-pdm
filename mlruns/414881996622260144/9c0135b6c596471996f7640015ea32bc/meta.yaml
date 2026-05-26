@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/9c0135b6c596471996f7640015ea32bc/artifacts
+end_time: 1779701203510
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 9c0135b6c596471996f7640015ea32bc
+run_name: nebulous-gnat-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701198465
+status: 3
+tags: []
+user_id: lutfianaade

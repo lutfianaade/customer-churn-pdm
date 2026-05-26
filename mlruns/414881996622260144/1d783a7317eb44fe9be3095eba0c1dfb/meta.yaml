@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/1d783a7317eb44fe9be3095eba0c1dfb/artifacts
+end_time: 1779700031272
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 1d783a7317eb44fe9be3095eba0c1dfb
+run_name: suave-panda-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700026580
+status: 3
+tags: []
+user_id: lutfianaade

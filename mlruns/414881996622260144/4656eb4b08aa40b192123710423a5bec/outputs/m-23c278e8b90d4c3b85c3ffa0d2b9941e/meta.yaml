@@ -1,0 +1,6 @@
+destination_id: m-23c278e8b90d4c3b85c3ffa0d2b9941e
+destination_type: MODEL_OUTPUT
+source_id: m-23c278e8b90d4c3b85c3ffa0d2b9941e
+source_type: RUN_OUTPUT
+step: 0
+tags: {}

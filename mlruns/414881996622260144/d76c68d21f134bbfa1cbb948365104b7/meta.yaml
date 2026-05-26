@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/d76c68d21f134bbfa1cbb948365104b7/artifacts
+end_time: 1779700545572
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: d76c68d21f134bbfa1cbb948365104b7
+run_name: orderly-bee-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700540473
+status: 3
+tags: []
+user_id: lutfianaade

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b8c1f8fcac8949f38df19cd7cbeedb7c/artifacts
+end_time: 1779701183987
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b8c1f8fcac8949f38df19cd7cbeedb7c
+run_name: defiant-steed-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701179391
+status: 3
+tags: []
+user_id: lutfianaade

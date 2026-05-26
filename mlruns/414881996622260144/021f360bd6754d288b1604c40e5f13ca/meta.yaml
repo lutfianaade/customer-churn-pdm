@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/021f360bd6754d288b1604c40e5f13ca/artifacts
+end_time: 1779700588816
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 021f360bd6754d288b1604c40e5f13ca
+run_name: masked-frog-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700584021
+status: 3
+tags: []
+user_id: lutfianaade

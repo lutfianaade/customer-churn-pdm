@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/741ef9b086cd4534b3936a5b062f6145/artifacts
+end_time: 1779700105657
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 741ef9b086cd4534b3936a5b062f6145
+run_name: burly-horse-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700101047
+status: 3
+tags: []
+user_id: lutfianaade

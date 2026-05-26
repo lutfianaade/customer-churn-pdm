@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/003765a5a6be48cfbc827c0eb15bdd94/artifacts
+end_time: 1779699565475
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 003765a5a6be48cfbc827c0eb15bdd94
+run_name: delicate-seal-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699559391
+status: 3
+tags: []
+user_id: lutfianaade

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/bb70568f464742dd9a35d3fdc976ccfc/artifacts
+end_time: 1779700040721
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: bb70568f464742dd9a35d3fdc976ccfc
+run_name: gifted-conch-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700035795
+status: 3
+tags: []
+user_id: lutfianaade

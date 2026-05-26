@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/95ddffde56aa42dbbac9095ba9e3fe28/artifacts
+end_time: 1779702006373
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 95ddffde56aa42dbbac9095ba9e3fe28
+run_name: secretive-mink-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779702001610
+status: 3
+tags: []
+user_id: lutfianaade

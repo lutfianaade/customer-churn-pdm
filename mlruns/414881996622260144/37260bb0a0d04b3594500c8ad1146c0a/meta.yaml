@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/37260bb0a0d04b3594500c8ad1146c0a/artifacts
+end_time: 1779701327740
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 37260bb0a0d04b3594500c8ad1146c0a
+run_name: flawless-cub-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701322328
+status: 3
+tags: []
+user_id: lutfianaade

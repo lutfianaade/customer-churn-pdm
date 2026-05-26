@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b90c9a94f5c44bb0be52e11b78730c80/artifacts
+end_time: 1779700073012
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b90c9a94f5c44bb0be52e11b78730c80
+run_name: rogue-grouse-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700068622
+status: 3
+tags: []
+user_id: lutfianaade

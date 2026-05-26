@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/0efd5b3a159a4701a918a60ce4b789f9/artifacts
+end_time: 1779700428095
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 0efd5b3a159a4701a918a60ce4b789f9
+run_name: incongruous-pig-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700422978
+status: 3
+tags: []
+user_id: lutfianaade

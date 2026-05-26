@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/5a21840772fc48c0b842020610143a84/artifacts
+end_time: 1779701145397
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 5a21840772fc48c0b842020610143a84
+run_name: clumsy-chimp-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701140605
+status: 3
+tags: []
+user_id: lutfianaade

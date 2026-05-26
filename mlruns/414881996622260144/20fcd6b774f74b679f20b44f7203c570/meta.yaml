@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/20fcd6b774f74b679f20b44f7203c570/artifacts
+end_time: 1779701634416
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 20fcd6b774f74b679f20b44f7203c570
+run_name: chill-shark-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779701629450
+status: 3
+tags: []
+user_id: lutfianaade

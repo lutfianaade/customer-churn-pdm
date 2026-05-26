@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/6fb0d9c111a94dab98c0e41fdae3cda1/artifacts
+end_time: 1779699815930
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 6fb0d9c111a94dab98c0e41fdae3cda1
+run_name: masked-ray-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699810564
+status: 3
+tags: []
+user_id: lutfianaade

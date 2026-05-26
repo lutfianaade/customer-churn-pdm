@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/c3aab3fc06064e17b4572ea2116c7ffe/artifacts
+end_time: 1779700255612
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: c3aab3fc06064e17b4572ea2116c7ffe
+run_name: bedecked-ape-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700250747
+status: 3
+tags: []
+user_id: lutfianaade

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/b3fa184418a44939bf598b24de80336c/artifacts
+end_time: 1779702191366
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: b3fa184418a44939bf598b24de80336c
+run_name: languid-donkey-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779702186309
+status: 3
+tags: []
+user_id: lutfianaade

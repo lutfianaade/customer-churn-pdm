@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/a5545b175c534a1f804e11e1169dc9c5/artifacts
+end_time: 1779699870690
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: a5545b175c534a1f804e11e1169dc9c5
+run_name: agreeable-eel-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779699865731
+status: 3
+tags: []
+user_id: lutfianaade

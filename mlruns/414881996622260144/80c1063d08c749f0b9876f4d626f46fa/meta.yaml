@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/80c1063d08c749f0b9876f4d626f46fa/artifacts
+end_time: 1779700871977
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 80c1063d08c749f0b9876f4d626f46fa
+run_name: burly-wolf-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700867150
+status: 3
+tags: []
+user_id: lutfianaade

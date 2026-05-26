@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/S1/PDM/Churn-Project/mlruns/414881996622260144/257b28f7687643e4b4e891cfd8ef836d/artifacts
+end_time: 1779700881667
+entry_point_name: ''
+experiment_id: '414881996622260144'
+lifecycle_stage: active
+run_id: 257b28f7687643e4b4e891cfd8ef836d
+run_name: awesome-goose-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779700876886
+status: 3
+tags: []
+user_id: lutfianaade
